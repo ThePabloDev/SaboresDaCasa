@@ -4,7 +4,6 @@ import Home from './components/Home';
 import AdicionarReceita from './components/AdicionarReceita';
 import Receitas from './components/Receitas';
 import Navbar from './components/navbar';
-import Footer from './components/footer';
 import './App.css';
 
 const App = () => {
@@ -15,7 +14,7 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/adicionar-receita" element={<AdicionarReceita />} />
         <Route path="/receita/:id" element={<Receitas />} />
-      </Routes>""
+      </Routes>
     </Router>
   );
 };
