@@ -16,7 +16,7 @@ const AdicionarReceita = () => {
       id: Date.now(), 
       titulo,
       ingredientes: ingredientes.split('\n'), 
-      modo_de_preparo: modoPreparo // Atualize o campo aqui
+      modo_de_preparo: modoPreparo
     };
 
     await adicionarReceitaNaAPI(novaReceita);
