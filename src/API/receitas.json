@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "titulo": "Bolo de Chocolate",
+        "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1 xícara de açúcar",
+            "1/2 xícara de cacau em pó",
+            "1/2 xícara de manteiga derretida",
+            "4 ovos",
+            "1 colher de sopa de fermento em pó",
+            "1 colher de sopa de sal"
+        ],
+        "modo_de_preparo": [
+            "Pré-aqueça o forno a 180°C.",
+            "Misture a farinha, o açúcar, o cacau em pó e o sal em uma tigela.",
+            "Adicione a manteiga derretida e os ovos, misturando até obter uma massa homogênea.",
+            "Adicione o fermento em pó e misture bem.",
+            "Despeje a massa em uma forma untada e asse por 30-40 minutos."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Salada de Frutas",
+        "ingredientes": [
+            "1 xícara de morangos frescos",
+            "1 xícara de mirtilos frescos",
+            "1 xícara de uvas frescas",
+            "1/2 xícara de abacate picado",
+            "2 colheres de sopa de mel",
+            "1 colher de sopa de suco de limão"
+        ],
+        "modo_de_preparo": [
+            "Misture as frutas em uma tigela.",
+            "Adicione o abacate picado e misture bem.",
+            "Misture o mel e o suco de limão em uma tigela separada.",
+            "Despeje a mistura de mel e limão sobre as frutas e misture bem."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Feijoada",
+        "ingredientes": [
+            "1 xícara de feijão preto",
+            "1 xícara de carne de porco picada",
+            "1 xícara de linguiça picada",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "1 colher de sopa de sal",
+            "1 colher de sopa de pimenta-do-reino"
+        ],
+        "modo_de_preparo": [
+            "Cozinhe o feijão preto em água até ficar macio.",
+            "Em uma panela separada, cozinhe a carne de porco e a linguiça até ficarem douradas.",
+            "Adicione a cebola e o alho à panela e cozinhe até a cebola ficar translúcida.",
+            "Adicione o feijão cozido à panela e misture bem.",
+            "Tempere com sal e pimenta-do-reino a gosto."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Torta de Queijo",
+        "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1 xícara de queijo ralado",
+            "1/2 xícara de manteiga derretida",
+            "2 ovos",
+            "1 colher de sopa de fermento em pó",
+            "1 colher de sopa de sal"
+        ],
+        "modo_de_preparo": [
+            "Pré-aqueça o forno a 180°C.",
+            "Misture a farinha, o queijo ralado e o sal em uma tigela.",
+            "Adicione a manteiga derretida e os ovos, misturando até obter uma massa homogênea.",
+            "Adicione o fermento em pó e misture bem.",
+            "Despeje a massa em uma forma untada e asse por 30-40 minutos."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Sopa de Legumes",
+        "ingredientes": [
+            "2 xícaras de legumes variados (cenoura, batata, etc.)",
+            "2 xícaras de caldo de galinha",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "1 colher de sopa de sal",
+            "1 colher de sopa de pimenta-do-reino"
+        ],
+        "modo_de_preparo": [
+            "Em uma panela, refogue a cebola e o alho até ficarem dourados.",
+            "Adicione os legumes e cozinhe por alguns minutos.",
+            "Despeje o caldo de galinha na panela e deixe cozinhar até os legumes ficarem macios.",
+            "Tempere com sal e pimenta-do-reino a gosto."
+        ]
+    }
+]
